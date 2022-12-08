@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Christmas-in-Cork-React/static/css/main.f43dfeca.css",
+    "main.js": "/Christmas-in-Cork-React/static/js/main.1a46053a.js",
+    "static/js/787.52ea1e19.chunk.js": "/Christmas-in-Cork-React/static/js/787.52ea1e19.chunk.js",
+    "index.html": "/Christmas-in-Cork-React/index.html",
+    "main.f43dfeca.css.map": "/Christmas-in-Cork-React/static/css/main.f43dfeca.css.map",
+    "main.1a46053a.js.map": "/Christmas-in-Cork-React/static/js/main.1a46053a.js.map",
+    "787.52ea1e19.chunk.js.map": "/Christmas-in-Cork-React/static/js/787.52ea1e19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f43dfeca.css",
+    "static/js/main.1a46053a.js"
+  ]
+}
