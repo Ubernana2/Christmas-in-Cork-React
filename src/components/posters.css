@@ -1,0 +1,13 @@
+.poster-section{
+    width: 100%;
+    margin-top: 0;
+}
+
+.posterbg{
+    background-color: rgb(172, 223, 170);
+}
+
+.postertxt {
+    margin-top: 7%;
+    border-left:  3px solid rgb(3, 87, 0);
+}
